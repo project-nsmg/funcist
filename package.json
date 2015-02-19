@@ -1,0 +1,11 @@
+{
+    "name": "funcist",
+    "private": true,
+    "version": "0.0.1",
+    "description": "A micro-service hosting service.",
+    "author": "sorpa'as plat <me@sorpaas.com>",
+    "dependencies": {
+        "express": "3.2.4"
+    },
+    "start": "index.js"
+}
